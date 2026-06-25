@@ -32,10 +32,9 @@ Community testing is welcome.
 Clone this repository and run the installer:
 
 ```bash
-cd /tmp
-git clone https://github.com/blooesky/Domoticz-TPLinkRouter.git
-cd Domoticz-TPLinkRouter
-chmod +x install.sh
+cd /home/pi/domoticz/plugins
+git clone https://github.com/blooesky/Domoticz-TPLinkRouter.git TPLinkRouter
+cd TPLinkRouter
 ./install.sh
 ```
 
