@@ -139,6 +139,7 @@ It is built on top of the excellent open-source work of the following projects:
 
 tplinkrouterc6u by Alexandr Erohin
 https://github.com/AlexandrErohin/TP-Link-Archer-C6U
+
 Domoticz Python Plugin Framework
 https://github.com/domoticz/domoticz
 
