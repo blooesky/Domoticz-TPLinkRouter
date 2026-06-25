@@ -1,0 +1,4 @@
+tplinkrouterc6u
+pycryptodome
+requests
+urllib3
