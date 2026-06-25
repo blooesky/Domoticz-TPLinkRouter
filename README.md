@@ -38,6 +38,7 @@ cd TPLinkRouter
 chmod +x install.sh
 ./install.sh
 ```
+After install restart Domoticz.
 
 If Domoticz is installed somewhere else:
 
