@@ -33,7 +33,7 @@ Clone this repository and run the installer:
 
 ```bash
 cd /tmp
-git clone https://github.com/YOUR_USERNAME/Domoticz-TPLinkRouter.git
+git clone https://github.com/blooesky/Domoticz-TPLinkRouter.git
 cd Domoticz-TPLinkRouter
 chmod +x install.sh
 ./install.sh
