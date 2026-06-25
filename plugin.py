@@ -1,7 +1,7 @@
 """
 <plugin key="TPLinkRouter" name="TP-Link Router" author="4D" version="1.0.0"
-        wikilink="https://github.com/YOUR_USERNAME/Domoticz-TPLinkRouter"
-        externallink="https://github.com/YOUR_USERNAME/Domoticz-TPLinkRouter">
+        wikilink="https://github.com/blooesky/Domoticz-TPLinkRouter"
+        externallink="https://github.com/blooesky/Domoticz-TPLinkRouter">
     <description>
         <h2>TP-Link Router</h2><br/>
         Controls and monitors TP-Link compatible routers using tplinkrouterc6u.
