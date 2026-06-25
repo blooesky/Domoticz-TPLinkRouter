@@ -132,3 +132,17 @@ Check:
 ## Credits
 
 This plugin uses the `tplinkrouterc6u` Python library.
+Credits
+
+This plugin was developed by 4D.
+
+It is built on top of the excellent open-source work of the following projects:
+
+tplinkrouterc6u by Alexandr Erohin
+https://github.com/AlexandrErohin/TP-Link-Archer-C6U
+Domoticz Python Plugin Framework
+https://github.com/domoticz/domoticz
+
+This project does not modify or redistribute the original tplinkrouterc6u source code. It uses the library as intended and extends it with a Domoticz integration focused on automation and monitoring.
+
+Special thanks to the authors and contributors of these open-source projects.
