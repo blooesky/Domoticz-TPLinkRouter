@@ -35,6 +35,7 @@ Clone this repository and run the installer:
 cd /home/pi/domoticz/plugins
 git clone https://github.com/blooesky/Domoticz-TPLinkRouter.git TPLinkRouter
 cd TPLinkRouter
+chmod +x install.sh
 ./install.sh
 ```
 
